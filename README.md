@@ -60,7 +60,7 @@
   <li><span style="color: #2ECC40;">TERMUX</span></li>
   <li>For hosting server code, you can use some free services like:</li>
   <ul>
-    <li><a href="https://replit.com/@VivekOberoi/CYBER-WORM-SERVER?v=1" style="color: #FF4136;">(🍁Top-1👉🏻 replit.com)</a></li>
+    <li><a href="https://replit.com/@VivekOberoi/CYBER-WORM-SERVER?v=1" style="color: #FF4136;">🍁Top-1👉🏻 (replit.com)</a></li>
     <li><a href="https://glitch.com/" style="color: #FFDC00;">glitch.com</a></li>
     <li><a href="https://heroku.com/" style="color: #B10DC9;">heroku.com</a></li>
     <li><a href="https://render.com/" style="color: #B10DC9;">render.com</a></li>
